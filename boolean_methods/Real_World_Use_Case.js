@@ -9,6 +9,8 @@ if (isLoggedIn) {
     console.log("Please log in.");
 }
 
+console.log('===========================================');
+
 // Example use case in a loop
 let count = 1;
 
